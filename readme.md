@@ -1,6 +1,7 @@
 ## File type detection with random forest classifier
 
 Latest result update 25/6/22
+Test size: 33%
 
 ### Languages: 
     python, javascript, java
